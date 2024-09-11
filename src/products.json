@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Boublegum",
+    "price": 0.5,
+    "image": "https://img-bizimtoptan.mncdn.com/Content/Images/Thumbs/2993750.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Cola",
+    "price": 6,
+    "image": "https://shop.phoenixbev.mu/wp-content/uploads/1040-1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Shoes",
+    "price": 400,
+    "image": "https://product.hstatic.net/1000271846/product/lowtop-black-01_ca7ee8874c5b43ef83e20549270e0354_master.png"
+  },
+  {
+    "id": 4,
+    "title": "Car",
+    "price": 40000,
+    "image": "https://ideacdn.net/idea/cy/49/myassets/products/254/07-690-kirilmaz-mini-arabalar-kirmizi-2.jpg?revision=1724747054"
+  },
+  {
+    "id": 5,
+    "title": "Fan",
+    "price": 1000,
+    "image": "https://ideacdn.net/idea/kp/87/myassets/products/158/fan-2.jpg?revision=1697143329"
+  },
+  {
+    "id": 6,
+    "title": "Suit Case",
+    "price": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3QR6tm3Oc1Rwin6ulB-03zI77VBiD9I2iCw&s"
+  },
+  {
+    "id": 7,
+    "title": "Bicycle",
+    "price": 15000,
+    "image": "https://cdn03.ciceksepeti.com/cicek/kcm69338476-1/L/corelli-snoop-4.3-29-jant-20k-neonkirmizi-bisikle-kcm69338476-1-e62db3e672a143a19329cdb9016a95ac.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Laptop",
+    "price": 18000,
+    "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/PDP-Highlight-Consumer-Laptop-Go-3-Platinum-001:VP1-539x440"
+  }
+]
